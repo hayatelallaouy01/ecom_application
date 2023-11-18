@@ -15,3 +15,6 @@
 
 ## localhost:9081/customers/1?page=1&size=2
 ![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/eb81e252-91d4-47d7-b192-3c0170696def)
+
+## localhost:9081/actuator/health
+![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/87a73365-bb14-4ecd-9849-859d72794283)
