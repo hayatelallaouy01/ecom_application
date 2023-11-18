@@ -13,4 +13,5 @@
 ### localhost:9081/customers/1
 ![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/22d61693-2927-4360-9fc4-1181b49801b2)
 
-
+## localhost:9081/customers/1?page=1&size=2
+![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/eb81e252-91d4-47d7-b192-3c0170696def)
