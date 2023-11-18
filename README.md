@@ -33,3 +33,9 @@
 ### localhost:9999/products
 ![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/060bad58-0e28-462c-bd35-7b02f3557246)
 
+### GatewayApplication
+![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/d0c19989-db49-41b0-8db8-022a70aab3f0)
+
+------------------
+## Billing service 
+![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/57b43412-6173-4cd7-a22a-9bcd5edc1ade)
