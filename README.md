@@ -26,3 +26,10 @@
 ### localhost:9082/products
 ![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/aa87db63-993c-4629-908e-b88117a4ce5c)
 
+---------------------
+## Gate-Way Service 
+![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/7b5d1790-eb2c-4205-a0f0-a875039c8ffd)
+
+### localhost:9999/products
+![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/060bad58-0e28-462c-bd35-7b02f3557246)
+
