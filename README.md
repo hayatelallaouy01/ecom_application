@@ -13,8 +13,16 @@
 ### localhost:9081/customers/1
 ![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/22d61693-2927-4360-9fc4-1181b49801b2)
 
-## localhost:9081/customers/1?page=1&size=2
+### localhost:9081/customers/1?page=1&size=2
 ![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/eb81e252-91d4-47d7-b192-3c0170696def)
 
-## localhost:9081/actuator/health
+###  localhost:9081/actuator/health
 ![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/87a73365-bb14-4ecd-9849-859d72794283)
+
+--------------
+## Inventory Service 
+![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/a5c0eddc-7097-4e1a-a3f7-1f51b951e4ea)
+
+### localhost:9082/products
+![image](https://github.com/hayatelallaouy01/ecom_application/assets/123452386/aa87db63-993c-4629-908e-b88117a4ce5c)
+
